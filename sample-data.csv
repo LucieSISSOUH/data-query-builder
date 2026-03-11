@@ -1,0 +1,13 @@
+name,region,category,price,quantity
+Widget A,North,Electronics,29.99,150
+Widget B,South,Electronics,49.99,80
+Widget C,West,Electronics,39.99,200
+Gadget D,North,Home,15.50,300
+Gadget E,East,Home,22.00,120
+Gadget F,West,Home,18.75,90
+Service G,South,Software,99.00,45
+Service H,North,Software,149.00,30
+Service I,East,Software,79.00,60
+Tool J,West,Hardware,55.00,110
+Tool K,South,Hardware,45.50,75
+Tool L,North,Hardware,62.00,40
